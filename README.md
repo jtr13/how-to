@@ -4,8 +4,8 @@
 [Access /usr folder](https://iboysoft.com/news/access-usr-folder-mac.html)  
 
 **quarto**
-`code-summary` needs to be under `language` at least temporarily
-`fig-align` doesn't work globally (use knitr)
+`code-summary` needs to be under `language` at least temporarily  
+`fig-align` doesn't work globally (use knitr)  
 `auto-stretch: false` needed for `out.width` to work properly
 
 **reprex**  
